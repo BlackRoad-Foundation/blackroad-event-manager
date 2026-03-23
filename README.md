@@ -1,3 +1,11 @@
+# blackroad-event-manager
+
+> Event management and registration platform
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Foundation](https://github.com/BlackRoad-Foundation)
+
+---
+
 # BlackRoad Event Manager
 
 > Event management and registration platform — SQLite-backed, zero-dependency Python.
